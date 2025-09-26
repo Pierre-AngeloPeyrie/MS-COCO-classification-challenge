@@ -1,4 +1,6 @@
 ms-coco
+best_resnet18.pt
+submission.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

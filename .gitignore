@@ -1,6 +1,9 @@
 ms-coco
 best_resnet18.pt
 submission.json
+best_f1.npy
+label_stats.npy
+runs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -4,6 +4,7 @@ submission.json
 best_f1.npy
 label_stats.npy
 runs
+best_reg.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
